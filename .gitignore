@@ -12,3 +12,4 @@
 /dev/local-build.rb
 *.sublime-project
 *.sublime-workspace
+build
